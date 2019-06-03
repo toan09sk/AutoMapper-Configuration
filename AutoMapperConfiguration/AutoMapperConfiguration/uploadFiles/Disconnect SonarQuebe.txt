@@ -1,0 +1,2 @@
+In the end I deleted the contents of C:\Users\MyAccount\AppData\Local\Microsoft\VisualStudio\14.0 and it worked.
+It may not be the optimal solution as I have lost customizations and some extensions (although I backed it all up so I could get it all back).

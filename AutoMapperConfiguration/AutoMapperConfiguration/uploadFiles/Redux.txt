@@ -1,0 +1,3 @@
+
+npm install @ngrx/schematics --save-dev
+npm install redux @angular-redux/store —save
